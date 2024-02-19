@@ -1,0 +1,43 @@
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\obj\Debug\CriptoClient.Form1.resources
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\obj\Debug\CriptoClient.Foursquare.resources
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\obj\Debug\CriptoClient.OFB.resources
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\obj\Debug\CriptoClient.OTP.resources
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\obj\Debug\CriptoClient.SHA_1.resources
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\obj\Debug\CriptoClient.XXTEA.resources
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nikol\OneDrive\Documents\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\obj\Debug\FormaWFC.Form1.resources
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\obj\Debug\FormaWFC.Foursquare.resources
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\obj\Debug\FormaWFC.OFB.resources
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\obj\Debug\FormaWFC.OTP.resources
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\obj\Debug\FormaWFC.XXTEA.resources
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\obj\Debug\FormaWFC.Form1.resources
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\obj\Debug\FormaWFC.Foursquare.resources
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\obj\Debug\FormaWFC.OFB.resources
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\obj\Debug\FormaWFC.OTP.resources
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\obj\Debug\FormaWFC.XXTEA.resources
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

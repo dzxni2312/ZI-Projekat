@@ -1,0 +1,21 @@
+C:\Users\nikol\OneDrive\Documents\WCF18000\WCF18000\bin\WCF18000.dll.config
+C:\Users\nikol\OneDrive\Documents\WCF18000\WCF18000\bin\WCF18000.dll
+C:\Users\nikol\OneDrive\Documents\WCF18000\WCF18000\bin\WCF18000.pdb
+C:\Users\nikol\OneDrive\Documents\WCF18000\WCF18000\obj\Debug\WCF18000.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Documents\WCF18000\WCF18000\obj\Debug\WCF18000.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Documents\WCF18000\WCF18000\obj\Debug\WCF18000.dll
+C:\Users\nikol\OneDrive\Documents\WCF18000\WCF18000\obj\Debug\WCF18000.pdb
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WCF18000\bin\WCF18000.dll.config
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WCF18000\bin\WCF18000.dll
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WCF18000\bin\WCF18000.pdb
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WCF18000\obj\Debug\WCF18000.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WCF18000\obj\Debug\WCF18000.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WCF18000\obj\Debug\WCF18000.dll
+C:\Users\nikol\OneDrive\Desktop\WCF18000 (2)\WCF18000\WCF18000\obj\Debug\WCF18000.pdb
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WCF18000\bin\WCF18000.dll.config
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WCF18000\bin\WCF18000.dll
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WCF18000\bin\WCF18000.pdb
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WCF18000\obj\Debug\WCF18000.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WCF18000\obj\Debug\WCF18000.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WCF18000\obj\Debug\WCF18000.dll
+C:\Users\nikol\OneDrive\Desktop\Moji projekti\WCF18000 (1)\WCF18000\WCF18000\obj\Debug\WCF18000.pdb
